@@ -1,4 +1,21 @@
 #OBJECT ORIENTED PROGRAMING INTRODUCTION
+#Models/Class/Resources
+#1.User
+     #*id
+     #Email
+     #contacto
+     #fast and last name (we concertinate the two strings to make a name)
+     #Password
+     #Image (optional)
+     #User-type(customer)
+#2.Food
+       #id
+       #name
+       #description
+       #price 
+       #image
+       #category
+       
 #Creating a user class with properties(Name,Age and Location)
 class User:
     def __init__(my,name,age,location):
